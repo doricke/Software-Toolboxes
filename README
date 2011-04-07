@@ -1,0 +1,44 @@
+The Software Toolboxes are libraries of open source classes developed in multiple programming languages.
+
+
+Libraries of open source classes:
+
+  OpenCpp - C++ classes
+
+  OpenJava - Java classes
+
+  OpenOctave - Octave/Matlab function
+
+  OpenPerl - PERL scripts and class
+
+  OpenPython - Python classes
+
+  OpenRuby - Ruby classes
+
+  OpenScala - Scala classes
+
+
+Core Software Classes
+
+  Text File Classes:
+ 
+    InputFile - class for working with reading text from a file.
+
+    OuputFile - class for working with writing text to a file.
+
+
+  Bioinformatics classes:
+
+    FastaSequence - class representing a FASTA sequence.
+
+    FastaIterator - iterator class for reading FASTA sequences from a FASTA file.
+
+
+
+Additional classes:
+
+  OpenPerl
+
+    lengths.pl - script to determine the lengths of sequences in a FASTA file.
+
+    Motifs.pl - script for finding Prosite motif patterns in a FASTA file of protein sequences.
