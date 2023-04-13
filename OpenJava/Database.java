@@ -10,7 +10,7 @@ public class Database
   private static String database_name = "LJ";		// Database name
   // private static String database_name = "LJDEV";		// Database name
 
-  private static String computer_name = "petunia.nadi.uslj";	// Computer name
+  private static String computer_name = "petunia";	// Computer name
 
   private static String socket_port = "1521";		// Database socket port
 
