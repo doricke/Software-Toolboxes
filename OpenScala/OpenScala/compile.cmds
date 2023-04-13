@@ -1,3 +1,0 @@
-scalac InputFile.scala
-scalac InputFileTest.scala
-scala InputFileTest
